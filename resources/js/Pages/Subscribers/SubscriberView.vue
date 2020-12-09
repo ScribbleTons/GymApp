@@ -27,7 +27,7 @@
         </form>
 
     </div>
-    <table class="table-auto bg-white shadow-md ml-5 mr-5 mt-1" style="width: -webkit-fill-available;">
+    <table class="table-auto bg-white shadow-md mx-5 w-full overflow-x-scroll lg:w-5/6  mt-1">
         <thead class="mr-4 ">
             <tr>
                 <th class="border px-4 py-2">Id</th>
